@@ -1,0 +1,15 @@
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\bin\Debug\net6.0\BonusLab3_RandomNumberGuesser.exe
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\bin\Debug\net6.0\BonusLab3_RandomNumberGuesser.deps.json
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\bin\Debug\net6.0\BonusLab3_RandomNumberGuesser.runtimeconfig.json
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\bin\Debug\net6.0\BonusLab3_RandomNumberGuesser.dll
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\bin\Debug\net6.0\BonusLab3_RandomNumberGuesser.pdb
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.AssemblyInfo.cs
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.dll
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\refint\BonusLab3_RandomNumberGuesser.dll
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.pdb
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\BonusLab3_RandomNumberGuesser.genruntimeconfig.cache
+C:\Users\xando\source\repos\BonusLab3_RandomNumberGuesser\BonusLab3_RandomNumberGuesser\obj\Debug\net6.0\ref\BonusLab3_RandomNumberGuesser.dll
